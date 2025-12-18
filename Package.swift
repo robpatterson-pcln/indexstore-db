@@ -25,7 +25,7 @@ var dependencies: [Package.Dependency] {
 
 let package = Package(
   name: "IndexStoreDB",
-  platforms: [.macOS(.v14)],
+  platforms: [.macOS(.v26)],
   products: [
     .library(
       name: "IndexStoreDB",
